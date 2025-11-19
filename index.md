@@ -1,13 +1,15 @@
 ---
-layout: default
-title: Snow-Ball-ML Blog
+layout: home
+title: "Snow-Ball-ML Blog"
+author_profile: true   # 右侧显示个人信息
 ---
+
 
 <h1>{{ page.title }}</h1>
 
-<p>Welcome to my Blogs</p>
+<p>This is my ML notes Github Blogs</p>
 
-<h2>Articals</h2>
+<h2>Index</h2>
 <ul>
   {% for post in site.posts %}
     <li>

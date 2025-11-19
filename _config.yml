@@ -1,10 +1,28 @@
-future: true
+# title: Snow-Ball-ML Blog
+# description: "Snow-Ball-ML's Blog"
+
+# # 对于 snow-ball-ml.github.io 这种“用户主页仓库”：
+# url: "https://snow-ball-ml.github.io"   # 不要带最后的 /
+# baseurl: ""                             # 一定要是空字符串！
+
+# remote_theme: pages-themes/leap-day@v0.2.0
+
+# plugins:
+#   - jekyll-remote-theme
+
+# # 为了方便你现在测试，把 future 打开也可以
+# future: true
 title: Snow-Ball-ML Blog
 description: "Snow-Ball-ML's Blog"
 
-url: "https://snow-ball-ml.github.io" # 不要带最后的 /
-baseurl: "/Snow-Ball-ML" # 前面要有 /，后面不要 /
+url: "https://snow-ball-ml.github.io"  # 用户主页域名
+baseurl: ""                            # ❗一定留空
 
-remote_theme: pages-themes/leap-day@v0.2.0
+# 选择 Minimal Mistakes 主题和配色
+minimal_mistakes_skin: "dark"       # 还可以试 "dark", "air", "neon" 等
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache                # Minimal Mistakes 必须
+  - jekyll-remote-theme                 # 你之前已经在用的
