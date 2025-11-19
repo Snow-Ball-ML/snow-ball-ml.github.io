@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Snow-Ball-ML's Blog
+layout: home
+title: "Snow-Ball-ML Blog"
+author_profile: true   # 右侧显示个人信息
 ---
+
 
 <h1>{{ page.title }}</h1>
 
