@@ -19,7 +19,7 @@ url: "https://snow-ball-ml.github.io"  # 用户主页域名
 baseurl: ""                            # ❗一定留空
 
 # 选择 Minimal Mistakes 主题和配色
-minimal_mistakes_skin: "default"       # 还可以试 "dark", "air", "neon" 等
+minimal_mistakes_skin: "dark"       # 还可以试 "dark", "air", "neon" 等
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
