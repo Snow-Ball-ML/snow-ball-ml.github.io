@@ -1,6 +1,6 @@
 future: true
-title: Snow-Ball-ML Blog
-description: "Snow-Ball-ML's Blog"
+title: Snow-Ball-ML's Blog
+description:
 
 url: "https://snow-ball-ml.github.io" # 不要带最后的 /
 baseurl: "/Snow-Ball-ML" # 前面要有 /，后面不要 /
