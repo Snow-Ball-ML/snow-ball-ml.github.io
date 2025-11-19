@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Snow-Ball-ML Blog
+title: Snow-Ball-ML's Blog
 ---
 
 <h1>{{ page.title }}</h1>
 
-<p>Welcome to my Blogs</p>
+<p>This is my ML notes Github Blogs</p>
 
-<h2>Articals</h2>
+<h2>Index</h2>
 <ul>
   {% for post in site.posts %}
     <li>
