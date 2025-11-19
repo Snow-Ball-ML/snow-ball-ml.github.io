@@ -3,7 +3,7 @@ title: Snow-Ball-ML's Blog
 description:
 
 url: "https://snow-ball-ml.github.io" # 不要带最后的 /
-baseurl: "/Snow-Ball-ML" # 前面要有 /，后面不要 /
+baseurl:  "/snow-ball-ml.github.io"  # "/Snow-Ball-ML" # 前面要有 /，后面不要 /
 
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
